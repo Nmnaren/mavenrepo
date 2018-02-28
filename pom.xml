@@ -24,7 +24,7 @@
         </configuration>
       </plugin>
     </plugins>
-  </build>
+  
    <distributionManagement>
         <repository>
             <id>deployment</id>
